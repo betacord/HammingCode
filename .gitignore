@@ -1,0 +1,5 @@
+# history dir
+/__history/*
+
+#output dir
+/Win32/*
